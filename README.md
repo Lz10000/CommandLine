@@ -1,8 +1,7 @@
-#Command Line Project
-Creates a tree structure for directories 
-and subdirectories 
+##Command Line Project
+Creates a tree structure for directories and subdirectories 
 
-#Commands 
+##Commands 
 cd
 mkdir
 dir
