@@ -1,10 +1,12 @@
-##Command Line Project
+## Command Line Project
 Creates a tree structure for directories and subdirectories 
 
-##Commands 
-cd
-mkdir
-dir
-up
+## Commands 
 
+```
+$cd
+$mkdir
+$dir
+$up
+```
 
